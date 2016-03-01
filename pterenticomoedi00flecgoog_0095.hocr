@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pterenticomoedi00flecgoog/pterenticomoedi00flecgoog_0095.png"; bbox 0 0 2468 4036; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 88 194 131 259">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 88 194 131 259">
+     <span class='ocr_line' id='line_1_1' title="bbox 88 194 131 259; baseline -0.023 0"><span class='ocrx_word' id='word_1_1' title='bbox 88 194 131 259; x_wconf 78' lang='grc'>82</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 88 363 595 928">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 88 363 595 928">
+     <span class='ocr_line' id='line_1_2' title="bbox 88 363 489 416; baseline 0.005 -2"><span class='ocrx_word' id='word_1_2' title='bbox 88 366 120 414; x_wconf 80' lang='lat' dir='ltr'><strong>V.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 138 363 191 415; x_wconf 85' lang='grc'>857</span> <span class='ocrx_word' id='word_1_4' title='bbox 207 364 332 416; x_wconf 86' lang='lat' dir='ltr'><strong>iambicus</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 345 371 489 416; x_wconf 82' lang='lat' dir='ltr'><strong>octonarius</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 111 445 579 514; baseline 0.009 -16"><span class='ocrx_word' id='word_1_6' title='bbox 111 476 118 485; x_wconf 95' lang='lat'>·</span> <span class='ocrx_word' id='word_1_7' title='bbox 132 445 184 498; x_wconf 97' lang='grc'><strong>858</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 200 454 225 496; x_wconf 81' lang='lat' dir='ltr'><strong>ct</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 238 445 291 498; x_wconf 88' lang='grc'><strong>859</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 304 447 427 497; x_wconf 76' lang='lat' dir='ltr'><strong>trochaici</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 442 451 579 514; x_wconf 76' lang='lat' dir='ltr'><strong>ssptcnsrss</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 105 528 584 585; baseline -0.004 -3"><span class='ocrx_word' id='word_1_12' title='bbox 105 560 118 571; x_wconf 91' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 135 529 187 582; x_wconf 77' lang='lat'><strong>800</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 206 529 240 580; x_wconf 82' lang='lat' dir='ltr'><strong>ad</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 259 528 310 582; x_wconf 83' lang='grc'><strong>883</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 329 531 433 581; x_wconf 86' lang='lat' dir='ltr'><strong>iambici</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 448 531 584 585; x_wconf 71' lang='lat' dir='ltr'><strong>octonarii</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 106 606 525 679; baseline -0.005 -14"><span class='ocrx_word' id='word_1_18' title='bbox 106 644 119 654; x_wconf 93' lang='lat'>-</span> <span class='ocrx_word' id='word_1_19' title='bbox 136 613 188 665; x_wconf 79' lang='grc'><strong>884</strong></span> <span class='ocrx_word' id='word_1_20' title='bbox 206 613 350 665; x_wconf 76' lang='lat' dir='ltr'><strong>trochaicus</strong></span> <span class='ocrx_word' id='word_1_21' title='bbox 365 606 525 679; x_wconf 72' lang='lat' dir='ltr'><strong>septenarius</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 105 696 488 749; baseline -0.003 0"><span class='ocrx_word' id='word_1_22' title='bbox 105 727 117 738; x_wconf 92' lang='lat'><em>-</em></span> <span class='ocrx_word' id='word_1_23' title='bbox 135 697 186 749; x_wconf 85' lang='grc'>865</span> <span class='ocrx_word' id='word_1_24' title='bbox 200 697 326 748; x_wconf 73' lang='lat' dir='ltr'><strong>iambicus</strong></span> <span class='ocrx_word' id='word_1_25' title='bbox 344 696 488 748; x_wconf 76' lang='lat' dir='ltr'><strong>octonarius</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 104 778 528 832; baseline -0.005 0"><span class='ocrx_word' id='word_1_26' title='bbox 104 809 116 821; x_wconf 92' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_27' title='bbox 134 779 186 832; x_wconf 86' lang='grc'>856</span> <span class='ocrx_word' id='word_1_28' title='bbox 200 780 234 831; x_wconf 84' lang='lat' dir='ltr'><strong>ad</strong></span> <span class='ocrx_word' id='word_1_29' title='bbox 250 778 302 831; x_wconf 87' lang='grc'><strong>895</strong></span> <span class='ocrx_word' id='word_1_30' title='bbox 316 779 419 830; x_wconf 80' lang='lat' dir='ltr'><strong>iambici</strong></span> <span class='ocrx_word' id='word_1_31' title='bbox 434 780 528 830; x_wconf 78' lang='lat' dir='ltr'><strong>sonarit</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 102 860 595 928; baseline -0.006 -13"><span class='ocrx_word' id='word_1_32' title='bbox 102 893 115 904; x_wconf 93' lang='lat'>-</span> <span class='ocrx_word' id='word_1_33' title='bbox 132 862 185 915; x_wconf 82' lang='grc'><strong>896</strong></span> <span class='ocrx_word' id='word_1_34' title='bbox 199 863 233 913; x_wconf 79' lang='lat' dir='ltr'><strong>ac</strong></span> <span class='ocrx_word' id='word_1_35' title='bbox 247 860 298 913; x_wconf 81' lang='grc'><strong>928</strong></span> <span class='ocrx_word' id='word_1_36' title='bbox 313 861 436 912; x_wconf 79' lang='lat' dir='ltr'><strong>trochaici</strong></span> <span class='ocrx_word' id='word_1_37' title='bbox 453 863 595 928; x_wconf 78' lang='lat' dir='ltr'><strong>septenarii</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 103 942 590 1162">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 103 942 590 1162">
+     <span class='ocr_line' id='line_1_9' title="bbox 104 942 564 997; baseline -0.004 0"><span class='ocrx_word' id='word_1_38' title='bbox 104 977 115 985; x_wconf 93' lang='lat'>-</span> <span class='ocrx_word' id='word_1_39' title='bbox 133 944 185 997; x_wconf 76' lang='lat' dir='ltr'><strong>ott</strong></span> <span class='ocrx_word' id='word_1_40' title='bbox 203 944 237 996; x_wconf 83' lang='lat' dir='ltr'><strong>td</strong></span> <span class='ocrx_word' id='word_1_41' title='bbox 254 942 305 996; x_wconf 87' lang='grc'>958</span> <span class='ocrx_word' id='word_1_42' title='bbox 318 944 422 995; x_wconf 81' lang='lat' dir='ltr'><strong>iambici</strong></span> <span class='ocrx_word' id='word_1_43' title='bbox 441 944 564 996; x_wconf 80' lang='lat' dir='ltr'><strong>octonarii</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 103 1025 590 1093; baseline -0.004 -13"><span class='ocrx_word' id='word_1_44' title='bbox 103 1056 116 1070; x_wconf 91' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_45' title='bbox 133 1027 185 1080; x_wconf 88' lang='grc'><strong>959</strong></span> <span class='ocrx_word' id='word_1_46' title='bbox 199 1027 233 1078; x_wconf 83' lang='lat' dir='ltr'><strong>ad</strong></span> <span class='ocrx_word' id='word_1_47' title='bbox 247 1025 299 1078; x_wconf 78' lang='grc'><strong>992</strong></span> <span class='ocrx_word' id='word_1_48' title='bbox 316 1027 438 1078; x_wconf 85' lang='lat' dir='ltr'><strong>trochaici</strong></span> <span class='ocrx_word' id='word_1_49' title='bbox 451 1031 590 1093; x_wconf 79' lang='lat' dir='ltr'><strong>septanarii</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 109 1107 547 1162; baseline -0.009 0"><span class='ocrx_word' id='word_1_50' title='bbox 109 1140 116 1150; x_wconf 93' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_51' title='bbox 133 1108 184 1162; x_wconf 85' lang='grc'><strong>998</strong></span> <span class='ocrx_word' id='word_1_52' title='bbox 199 1109 234 1160; x_wconf 83' lang='lat' dir='ltr'><strong>ad</strong></span> <span class='ocrx_word' id='word_1_53' title='bbox 251 1107 318 1162; x_wconf 78' lang='lat'>1003</span> <span class='ocrx_word' id='word_1_54' title='bbox 335 1109 439 1160; x_wconf 82' lang='lat' dir='ltr'><strong>iambici</strong></span> <span class='ocrx_word' id='word_1_55' title='bbox 451 1110 547 1159; x_wconf 78' lang='lat' dir='ltr'><strong>sanctii</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1238 4036">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1238 4036">
+     <span class='ocr_line' id='line_1_12' title="bbox 0 0 1238 4036; baseline 0 4"><span class='ocrx_word' id='word_1_56' title='bbox 0 0 1238 4036; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
